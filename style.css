@@ -11,7 +11,7 @@ h1 {
 }
 
 #part1 {
-    background-color: linear-gradient(magenta, purple, pink);
+    background: linear-gradient(magenta, purple, pink);
 }
 
 p {
